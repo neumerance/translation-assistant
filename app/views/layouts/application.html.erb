@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title><%= Figaro.env.service_name %></title>
+  <%= csrf_meta_tags %>
+  <%= stylesheet_link_tag 'application', media: 'all' %>
+</head>
+
+<body id="webta_app">
+<div id="preloader" style="display: none">
+  <div class="sk-cube-grid">
+    <div class="sk-cube sk-cube1"></div>
+    <div class="sk-cube sk-cube2"></div>
+    <div class="sk-cube sk-cube3"></div>
+    <div class="sk-cube sk-cube4"></div>
+    <div class="sk-cube sk-cube5"></div>
+    <div class="sk-cube sk-cube6"></div>
+    <div class="sk-cube sk-cube7"></div>
+    <div class="sk-cube sk-cube8"></div>
+    <div class="sk-cube sk-cube9"></div>
+  </div>
+</div>
+<%= yield %>
+<script>
+    var SESSION_TOKEN = '<%= session[:auth_token] %>';
+    var API_ENDPOINT = '<%= Service.services[session[:service_id]][:base_url] || '' %>';
+    var CK_LANG = 'en';
+    var PSPELL_API = "https://apitest.icanlocalize.com";
+    var SPELL_CSS = '<%= asset_path "spellchecker.scss" %>';
+    var CURRENT_USER = JSON.parse('<%= @current_user.to_json.html_safe %>');
+    var ApplicationAdapters = {
+      config: <%= ApplicationAdapters.config.to_json.html_safe %>
+    };
+    var PureLocalizationDB = {
+      data: <%= localization_client.json_data.html_safe %>
+    };
+    var LANGUAGE_MAPPINGS = '<%= Language::Mapping.language_lists.to_json.html_safe %>';
+</script>
+<%= javascript_include_tag '/tinymce_editor_4.7.2/tinymce.min.js' %>
+<%= javascript_include_tag 'application' %>
+<canvas id='textCanvas' class="hide" height=20></canvas>
+</body>
+</html>

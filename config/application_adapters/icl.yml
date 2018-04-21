@@ -1,0 +1,5 @@
+targetApp: "icl"
+appName: "ICanLocalize WebTA"
+JobsIndexEnabled: true
+IssuesFeatureEnabled: true
+InstantTranslationEnabled: true

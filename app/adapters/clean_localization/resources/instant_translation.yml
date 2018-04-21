@@ -1,0 +1,69 @@
+instant_translation:
+  intro:
+    en: '
+    <div className="col-md-12">
+      <h1>Instant Translation Instructions</h1>
+      <p>
+        Instant translation projects are typically short and simple texts which should be translated in minutes.
+      </p>
+      <p>
+        You will receive a notification in the <strong>Open Jobs</strong> area (on the left)
+        whenever an instant translation project is available.
+        For instant translation projects there is no bidding process,
+        the translation is assigned to you when you start translating it.
+      </p>
+      <p>
+        Click on the job name in the <strong>Open Jobs</strong> area and then click the
+        <strong>Start translating button</strong>.
+        Make sure the translation is delivered before the time runs out,
+        otherwise the job will be released and available to other translators again.
+      </p>
+      <p>
+        If the original text contains tokens such as %{token},
+        you should leave them intact in the translation.
+        You can insert tokens using this shortcut: Ctrl + Alt + [Token number].
+      </p>
+      <p>
+        Once the translation is done, press the button <strong>Declare Complete</strong> to submit it to the client.
+      </p>
+    </div>
+  '
+  panels:
+    open:
+      en: 'Open Jobs'
+    no_open_job:
+      en: 'No open instant translation available yet.'
+    current:
+      en: 'Current Job'
+    content:
+      words:
+        en: 'words'
+  job:
+    panels:
+      desc:
+        translate:
+          en: 'Translate'
+        from:
+          en: 'from'
+        to:
+          en: 'to'
+        words:
+          en: 'words'
+      source:
+        from:
+          en: 'From:'
+      target:
+        to:
+          en: 'To:'
+        cancel:
+          btn:
+            en: 'Cancel'
+          confirm:
+            en: 'Are you sure you want to cancel this job?'
+        complete:
+          btn:
+            en: 'Declare complete'
+          confirm:
+            en: 'Are you sure you want to mark this job as complete?'
+    start_btn:
+      en: 'Start translating'

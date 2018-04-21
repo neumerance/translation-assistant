@@ -1,0 +1,21 @@
+.otgs-webta-editor {
+  &:focus {
+    background: #fdffcb;
+    outline: none;
+  }
+}
+
+.otgs-webta-editor-container {
+  .collapsed {
+    display: none;
+    opacity: 0;
+  }
+  .expanded {
+    //display: initial;
+    opacity: 1;
+  }
+}
+
+.editor-tool-container {
+  width: 100%;
+}

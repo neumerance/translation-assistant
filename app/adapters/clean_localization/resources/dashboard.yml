@@ -1,0 +1,59 @@
+dashboard:
+  instant_translation:
+    en: 'Instant Translation'
+
+  jobs:
+    panel:
+      open:
+        en: 'Jobs waiting for your translation'
+      reviews:
+        en: 'Jobs waiting for your review'
+      waiting_for_review:
+        en: 'Jobs that you translated and are awaiting review by someone else'
+      review_completed:
+        en: 'Jobs that you completed review'
+      completed:
+        en: 'Jobs that you completed'
+      table:
+        header:
+          filter:
+            label:
+              show_translation_jobs_from:
+                left:
+                  en: 'Show translation jobs from:'
+                right:
+                  en: 'website(s)'
+              job_filter_id:
+                en: 'Job ID Filter'
+              search_btn:
+                en: 'Search'
+          columns:
+            label:
+              id:
+                en: 'ID'
+              project_name:
+                en: 'Project'
+              website_name:
+                en: 'Website'
+              source_language:
+                en: 'Source'
+              target_language:
+                en: 'Target'
+        body:
+          rows:
+            open_btn:
+              en: 'Open'
+            fetching_jobs:
+              en: 'Fetching jobs'
+            no_jobs:
+              en: 'No jobs found.'
+            project_details:
+              project_name:
+                en: 'Project Name:'
+              deadline:
+                en: 'Deadline:'
+              word_count:
+                en: 'Word Count:'
+              progress:
+                en: 'Progress:'
+

@@ -1,0 +1,58 @@
+#glossary-panel-modal {
+  .modal-body {
+    height: auto;
+  }
+}
+
+#glossary-items-table {
+  th {
+    padding-left: 1px;
+  }
+
+  .glossary-item-editable-row {
+    td {
+      padding: 1px;
+    }
+
+    .term {
+      padding-top: 7px;
+      color: #428bca;
+    }
+
+    input {
+      width: 100%;
+      border: 1px solid white;
+      height: 32px;
+    }
+
+    &.changed {
+      td, input { background: #ffffcd; }
+    }
+  }
+
+  .glossary-item-editable-row {
+    .dropdown-menu {
+      right: 0;
+      left: inherit;
+    }
+  }
+}
+
+#new-glossary-item {
+  input {
+    float: left;
+    margin-right: 10px;
+    border-radius: 0;
+  }
+
+  button {
+    float: right;
+  }
+
+  input {
+    width: 20%;
+    &.description {
+      width: 35%;
+    }
+  }
+}

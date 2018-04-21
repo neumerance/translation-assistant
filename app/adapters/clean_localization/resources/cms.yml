@@ -1,0 +1,77 @@
+cms:
+  header:
+    view_btn:
+      en: 'View original'
+    mode:
+      translate:
+        en: 'Translate:'
+      review:
+        en: 'Review:'
+      review_edit:
+        en: 'Review & edit:'
+    source:
+      en: 'Source'
+    target:
+      en: 'Target'
+    arrow:
+      up:
+        en: 'Move to the previous sentence'
+      down:
+        en: 'Move to the next sentence'
+  body:
+    sentences:
+      toolbars:
+        copy:
+          desc:
+            en: 'Copy the original text to the translation area'
+        dotted_space:
+          desc:
+            en: 'Visualize spaces'
+        glossary:
+          desc:
+            en: 'Lists the glossary related to this sentence'
+        issue:
+          desc:
+            en: 'Create issues for this sentence and view existing issues'
+        machine_translation:
+          desc:
+            en: 'Machine translation'
+        incomplete:
+          desc:
+            en: 'Declare as incomplete'
+        save:
+          desc:
+            en: 'Save this sentence'
+  footer:
+    back_to_list:
+      en: 'Back to list'
+    glossary:
+      btn:
+        en: 'Glossary'
+      desc:
+        en: 'See the available glossary based on the original translations.'
+    timed_out:
+      en: 'Timed out'
+    status:
+      in_progress:
+        en: 'in progress'
+      review_in_progress:
+        en: 'review in progress'
+      completed:
+        en: 'completed'
+    spellchecker:
+      label:
+        en: 'Spell Check'
+      toggle:
+        yes:
+          en: 'Yes'
+        no:
+          en: 'No'
+    finish:
+      btn:
+        en: 'Finish'
+      desc:
+        en: 'Finish and review translation'
+    no_finish:
+      desc:
+        en: 'All sentences has to be completed before being able to declare the work as complete'

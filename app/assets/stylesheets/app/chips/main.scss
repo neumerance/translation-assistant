@@ -1,0 +1,67 @@
+.rectangleChip {
+  border-radius: 8px;
+}
+
+.single-chip-container {
+  display: inline-block;
+  // height: 54px;
+  padding-top: 5px;
+  position: relative;
+}
+
+.chip-data {
+  display: table;
+  margin: 2px;
+
+  > span {
+    display: table-row;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 13px;
+  }
+}
+
+.chip-tag-name {
+  font-weight: bold;
+}
+.chip-shortcut {
+  font-size: 10px;
+}
+
+.chipContainer {
+
+}
+
+.chip {
+  display: inline-block;
+  padding: 0 15px;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 25px;
+  background-color: #f1f1f1;
+  margin-right: 5px;
+  font-size: 12px;
+  a {
+    float: left;
+    margin: 0 5px 0 -15px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    text-align: center;
+    i {
+      line-height: 30px;
+      color: #000000;
+    }
+  }
+}
+
+.untag-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #000;
+}
+.untag-btn:hover {
+  color: #2E2F30;
+}
+

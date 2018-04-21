@@ -1,0 +1,2021 @@
+[
+  {
+    "name": "Afrikaans",
+    "icl_format_iso": "af",
+    "ms_format_iso": "af",
+    "wpml_iso_format": "af",
+    "spellcheck_iso_format": "af",
+    "hunspell_iso_format": "af_ZA"
+  },
+  {
+    "name": "Afrikaans (South Africa)",
+    "icl_format_iso": "af",
+    "ms_format_iso": "af",
+    "wpml_iso_format": "af-za",
+    "spellcheck_iso_format": "af",
+    "hunspell_iso_format": "af_ZA"
+  },
+  {
+    "name": "Akan",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "ak",
+    "spellcheck_iso_format": "ak",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Albanian",
+    "icl_format_iso": "sq",
+    "ms_format_iso": null,
+    "wpml_iso_format": "sq",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Amharic",
+    "icl_format_iso": "am",
+    "ms_format_iso": null,
+    "wpml_iso_format": "am",
+    "spellcheck_iso_format": "am",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Arabic",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Morocco)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-ma",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Algeria)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-dz",
+    "spellcheck_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Bahrain & Oman)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-bh",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Egypt)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-eg",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (India)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-in",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Iraq)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-iq",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Israel)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-il",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Jordan)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-jo",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Kuwait)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-kw",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Lebanon)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-lb",
+    "spellcheck_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Libya)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-ly",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Oman)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-om",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Palestine)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-ps",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Qatar)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-qa",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Saudi Arabia)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-sa",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Sudan)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-sd",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Syria)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-sy",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Tunisia)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-tn",
+    "spellcheck_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (United Arab Emirates)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-ae",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Arabic (Yemen)",
+    "icl_format_iso": "ar",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "ar-ye",
+    "spellcheck_iso_format": "ar",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Bangla",
+    "icl_format_iso": null,
+    "ms_format_iso": "bn",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Bambara",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "bm",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Belarusian",
+    "icl_format_iso": "be",
+    "ms_format_iso": null,
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "bg",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Bengali",
+    "icl_format_iso": "bn",
+    "ms_format_iso": null,
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "bn",
+    "hunspell_iso_format": "bn_BD"
+  },
+  {
+    "name": "Bhojpuri",
+    "icl_format_iso": "bho",
+    "ms_format_iso": null,
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Bosnian",
+    "icl_format_iso": "bs",
+    "ms_format_iso": null,
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "bs",
+    "hunspell_iso_format": "bs_BA"
+  },
+  {
+    "name": "Basque",
+    "icl_format_iso": "eu",
+    "ms_format_iso": null,
+    "wpml_iso_format": "eu",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": "el_GR"
+  },
+  {
+    "name": "Belarusian (Belarus)",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "be-by",
+    "spellcheck_iso_format": "be",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Bosnian",
+    "icl_format_iso": "bs",
+    "ms_format_iso": null,
+    "wpml_iso_format": "bs",
+    "spellcheck_iso_format": "bs",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Bosnian (Bosnia and Herzegovina)",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "bs-ba",
+    "spellcheck_iso_format": "bs",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Bosnian (Cyrillic)",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "bsc",
+    "spellcheck_iso_format": "bs",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Bulgarian",
+    "icl_format_iso": "bg",
+    "ms_format_iso": "bg",
+    "wpml_iso_format": "bg",
+    "spellcheck_iso_format": "bg",
+    "hunspell_iso_format": "bg_BG"
+  },
+  {
+    "name": "Burmese",
+    "icl_format_iso": "mm",
+    "ms_format_iso": null,
+    "wpml_iso_format": "my",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Cantonese (Traditional)",
+    "icl_format_iso": null,
+    "ms_format_iso": "yue",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Cambodian",
+    "icl_format_iso": "kh",
+    "ms_format_iso": null,
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Catalan",
+    "icl_format_iso": "ca",
+    "ms_format_iso": "ca",
+    "wpml_iso_format": "ca",
+    "spellcheck_iso_format": "ca",
+    "hunspell_iso_format": "ca"
+  },
+  {
+    "name": "Catalan (Spain)",
+    "icl_format_iso": "ca",
+    "ms_format_iso": "ca",
+    "wpml_iso_format": "ca-es",
+    "spellcheck_iso_format": "ca",
+    "hunspell_iso_format": "ca"
+  },
+  {
+    "name": "Catalan (Valencia)",
+    "icl_format_iso": "ca",
+    "ms_format_iso": "ca",
+    "wpml_iso_format": "ca-xv",
+    "spellcheck_iso_format": "ca",
+    "hunspell_iso_format": "ca"
+  },
+  {
+    "name": "Chinese (China)",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "zh-cn",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Chinese (Hong Kong)",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "zh-hk",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Chinese (Simplified Taiwan)",
+    "icl_format_iso": "zh-Hans",
+    "ms_format_iso": "zh-Hans",
+    "wpml_iso_format": "zh-tw",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Chinese (Simplified)",
+    "icl_format_iso": "zh-Hans",
+    "ms_format_iso": "zh-Hans",
+    "wpml_iso_format": "zh-hans",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Chinese (Traditional)",
+    "icl_format_iso": "zh-Hant",
+    "ms_format_iso": "zh-Hant",
+    "wpml_iso_format": "zh-hans",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Croatian",
+    "icl_format_iso": "hr",
+    "ms_format_iso": "hr",
+    "wpml_iso_format": "hr",
+    "spellcheck_iso_format": "hr",
+    "hunspell_iso_format": "hr_HR"
+  },
+  {
+    "name": "Croatian (Croatia)",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "hr-hr",
+    "spellcheck_iso_format": "hr",
+    "hunspell_iso_format": "hr_HR"
+  },
+  {
+    "name": "Corsican",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "co",
+    "spellcheck_iso_format": "co",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Czech",
+    "icl_format_iso": "cs",
+    "ms_format_iso": "cs",
+    "wpml_iso_format": "cs",
+    "spellcheck_iso_format": "cs",
+    "hunspell_iso_format": "cs_CZ"
+  },
+  {
+    "name": "Czech (Czech Republic)",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "cs-cz",
+    "spellcheck_iso_format": "cs",
+    "hunspell_iso_format": "cs_CZ"
+  },
+  {
+    "name": "Danish",
+    "icl_format_iso": "da",
+    "ms_format_iso": "da",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "da",
+    "hunspell_iso_format": "da_DK"
+  },
+  {
+    "name": "Danish (Denmark)",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "da-dk",
+    "spellcheck_iso_format": "da",
+    "hunspell_iso_format": "da_DK"
+  },
+  {
+    "name": "Dari",
+    "icl_format_iso": "dr",
+    "ms_format_iso": null,
+    "wpml_iso_format": "fa-af",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Dhivehi",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "dv",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Dutch",
+    "icl_format_iso": "nl",
+    "ms_format_iso": "nl",
+    "wpml_iso_format": "nl",
+    "spellcheck_iso_format": "nl",
+    "hunspell_iso_format": "nl_NL"
+  },
+  {
+    "name": "Dutch (Netherlands)",
+    "icl_format_iso": "nl",
+    "ms_format_iso": "nl",
+    "wpml_iso_format": "nl-nl",
+    "spellcheck_iso_format": "nl",
+    "hunspell_iso_format": "nl_NL"
+  },
+  {
+    "name": "English",
+    "icl_format_iso": "en",
+    "ms_format_iso": "en",
+    "wpml_iso_format": "en",
+    "spellcheck_iso_format": "en",
+    "hunspell_iso_format": "en_US"
+  },
+  {
+    "name": "English (Aus)",
+    "icl_format_iso": "en",
+    "ms_format_iso": "en",
+    "wpml_iso_format": "en-au",
+    "spellcheck_iso_format": "en",
+    "hunspell_iso_format": "en_US"
+  },
+  {
+    "name": "English (Canada)",
+    "icl_format_iso": "en",
+    "ms_format_iso": "en",
+    "wpml_iso_format": "en-ca",
+    "spellcheck_iso_format": "en",
+    "hunspell_iso_format": "en_US"
+  },
+  {
+    "name": "English (South Africa)",
+    "icl_format_iso": "en",
+    "ms_format_iso": "en",
+    "wpml_iso_format": "en-za",
+    "spellcheck_iso_format": "en",
+    "hunspell_iso_format": "en_US"
+  },
+  {
+    "name": "English, UK",
+    "icl_format_iso": "en",
+    "ms_format_iso": "en",
+    "wpml_iso_format": "en-gb",
+    "spellcheck_iso_format": "en",
+    "hunspell_iso_format": "en_US"
+  },
+  {
+    "name": "English, US",
+    "icl_format_iso": "en",
+    "ms_format_iso": "en",
+    "wpml_iso_format": "en-us",
+    "spellcheck_iso_format": "en",
+    "hunspell_iso_format": "en_US"
+  },
+  {
+    "name": "Esperanto",
+    "icl_format_iso": "eo",
+    "ms_format_iso": null,
+    "wpml_iso_format": "eo",
+    "spellcheck_iso_format": "eo",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Estonian",
+    "icl_format_iso": "et",
+    "ms_format_iso": "et",
+    "wpml_iso_format": "et",
+    "spellcheck_iso_format": "et",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Estonian (Estonia)",
+    "icl_format_iso": "et",
+    "ms_format_iso": "et",
+    "wpml_iso_format": "et-ee",
+    "spellcheck_iso_format": "et",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Ewe",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "ee",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Faroese",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "fo",
+    "spellcheck_iso_format": "fo",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Farsi (India)",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "fa-in",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Fijian",
+    "icl_format_iso": null,
+    "ms_format_iso": "fj",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "fj",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Tagalog",
+    "icl_format_iso": "tl_PH",
+    "ms_format_iso": "fil",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Finnish",
+    "icl_format_iso": "fi",
+    "ms_format_iso": "fi",
+    "wpml_iso_format": "fi",
+    "spellcheck_iso_format": "fi",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Finnish (Finland)",
+    "icl_format_iso": "fi",
+    "ms_format_iso": "fi",
+    "wpml_iso_format": "fi-fi",
+    "spellcheck_iso_format": "fi",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "French",
+    "icl_format_iso": "fr",
+    "ms_format_iso": "fr",
+    "wpml_iso_format": "fr",
+    "spellcheck_iso_format": "fr",
+    "hunspell_iso_format": "fr"
+  },
+  {
+    "name": "French (BE)",
+    "icl_format_iso": "fr",
+    "ms_format_iso": "fr",
+    "wpml_iso_format": "fr-be",
+    "spellcheck_iso_format": "fr",
+    "hunspell_iso_format": "fr"
+  },
+  {
+    "name": "French (CH)",
+    "icl_format_iso": "fr",
+    "ms_format_iso": "fr",
+    "wpml_iso_format": "fr-ch",
+    "spellcheck_iso_format": "fr",
+    "hunspell_iso_format": "fr"
+  },
+  {
+    "name": "French Luxembourg",
+    "icl_format_iso": "fr",
+    "ms_format_iso": "fr",
+    "wpml_iso_format": "fr-lu",
+    "spellcheck_iso_format": "fr",
+    "hunspell_iso_format": "fr"
+  },
+  {
+    "name": "French, Canada",
+    "icl_format_iso": "fr",
+    "ms_format_iso": "fr",
+    "wpml_iso_format": "fr-ca",
+    "spellcheck_iso_format": "fr",
+    "hunspell_iso_format": "fr"
+  },
+  {
+    "name": "French, French",
+    "icl_format_iso": "fr",
+    "ms_format_iso": "fr",
+    "wpml_iso_format": "fr-fr",
+    "spellcheck_iso_format": "fr",
+    "hunspell_iso_format": "fr"
+  },
+  {
+    "name": "Frisian",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "fy",
+    "spellcheck_iso_format": "fy",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Galician",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "gl",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Georgian",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "ka",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Georgian (Georgia)",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "ka-ge",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "German (Germany)",
+    "icl_format_iso": "de",
+    "ms_format_iso": "de",
+    "wpml_iso_format": "de-de",
+    "spellcheck_iso_format": "de",
+    "hunspell_iso_format": "de_DE"
+  },
+  {
+    "name": "Greek",
+    "icl_format_iso": "el",
+    "ms_format_iso": "el",
+    "wpml_iso_format": "el",
+    "spellcheck_iso_format": "el",
+    "hunspell_iso_format": "el_GR"
+  },
+  {
+    "name": "Guaraní",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "gn",
+    "spellcheck_iso_format": "gn",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Gujarati",
+    "icl_format_iso": "ha",
+    "ms_format_iso": null,
+    "wpml_iso_format": "gu",
+    "spellcheck_iso_format": "gu",
+    "hunspell_iso_format": "gu_IN"
+  },
+  {
+    "name": "Hausa",
+    "icl_format_iso": "hau",
+    "ms_format_iso": null,
+    "wpml_iso_format": "ha",
+    "spellcheck_iso_format": "ha",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Haitian Creole",
+    "icl_format_iso": null,
+    "ms_format_iso": "ht",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "ht",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Hebrew",
+    "icl_format_iso": "he",
+    "ms_format_iso": "he",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "he",
+    "hunspell_iso_format": "he_IL"
+  },
+  {
+    "name": "Hebrew (Israel)",
+    "icl_format_iso": "he",
+    "ms_format_iso": "he",
+    "wpml_iso_format": "he-il",
+    "spellcheck_iso_format": "he",
+    "hunspell_iso_format": "he_IL"
+  },
+  {
+    "name": "Hindi",
+    "icl_format_iso": "hi",
+    "ms_format_iso": "hi",
+    "wpml_iso_format": "hi",
+    "spellcheck_iso_format": "hi",
+    "hunspell_iso_format": "hi_IN"
+  },
+  {
+    "name": "Hmong Daw",
+    "icl_format_iso": null,
+    "ms_format_iso": "mww",
+    "wpml_iso_format": "hmn",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Hungarian",
+    "icl_format_iso": "hu",
+    "ms_format_iso": "hu",
+    "wpml_iso_format": "hu",
+    "spellcheck_iso_format": "hu",
+    "hunspell_iso_format": "hu_HU"
+  },
+  {
+    "name": "Hungarian (Hungary)",
+    "icl_format_iso": "hu",
+    "ms_format_iso": null,
+    "wpml_iso_format": "hu-hu",
+    "spellcheck_iso_format": "hu",
+    "hunspell_iso_format": "hu_HU"
+  },
+  {
+    "name": "Icelandic",
+    "icl_format_iso": "is",
+    "ms_format_iso": null,
+    "wpml_iso_format": "is",
+    "spellcheck_iso_format": "is",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Icelandic (Iceland)",
+    "icl_format_iso": "is",
+    "ms_format_iso": null,
+    "wpml_iso_format": "is-is",
+    "spellcheck_iso_format": "is",
+    "hunspell_iso_format": "is_IS"
+  },
+  {
+    "name": "Igbo",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "ig",
+    "spellcheck_iso_format": "ig",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Indonesian",
+    "icl_format_iso": "id",
+    "ms_format_iso": "id",
+    "wpml_iso_format": "id",
+    "spellcheck_iso_format": "id",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Indonesian (Indonesia)",
+    "icl_format_iso": "id",
+    "ms_format_iso": "id",
+    "wpml_iso_format": "id-id",
+    "spellcheck_iso_format": "id",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Irish",
+    "icl_format_iso": "ga",
+    "ms_format_iso": null,
+    "wpml_iso_format": "ga",
+    "spellcheck_iso_format": "ga",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Irish (Gaelic)",
+    "icl_format_iso": "gd",
+    "ms_format_iso": null,
+    "wpml_iso_format": "ga-ie",
+    "spellcheck_iso_format": "ga",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Italian",
+    "icl_format_iso": "it",
+    "ms_format_iso": "it",
+    "wpml_iso_format": "it",
+    "spellcheck_iso_format": "it",
+    "hunspell_iso_format": "it_IT"
+  },
+  {
+    "name": "Italian (CH)",
+    "icl_format_iso": "it",
+    "ms_format_iso": "it",
+    "wpml_iso_format": "it-ch",
+    "spellcheck_iso_format": "it",
+    "hunspell_iso_format": "it_IT"
+  },
+  {
+    "name": "Italian (Italy)",
+    "icl_format_iso": "it",
+    "ms_format_iso": "it",
+    "wpml_iso_format": "it-it",
+    "spellcheck_iso_format": "it",
+    "hunspell_iso_format": "it_IT"
+  },
+  {
+    "name": "Japanese",
+    "icl_format_iso": "ja",
+    "ms_format_iso": "ja",
+    "wpml_iso_format": "ja",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Japanese (Japan)",
+    "icl_format_iso": "ja",
+    "ms_format_iso": "ja",
+    "wpml_iso_format": "ja-jp",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Javanese",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "jv",
+    "spellcheck_iso_format": "jv",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Kannada",
+    "icl_format_iso": "kn",
+    "ms_format_iso": null,
+    "wpml_iso_format": "kn",
+    "spellcheck_iso_format": "kn",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Kiswahili",
+    "icl_format_iso": null,
+    "ms_format_iso": "sw",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Kashmiri",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "ks",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Kazakh",
+    "icl_format_iso": "kk-KK",
+    "ms_format_iso": null,
+    "wpml_iso_format": "kk",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Khmer",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "km",
+    "spellcheck_iso_format": "km",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Kinyarwanda",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "rw",
+    "spellcheck_iso_format": "rw",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Kirghiz",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "ky",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Korean",
+    "icl_format_iso": "ko",
+    "ms_format_iso": "ko",
+    "wpml_iso_format": "ko",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": "ko"
+  },
+  {
+    "name": "Korean (Korea)",
+    "icl_format_iso": "ko",
+    "ms_format_iso": "ko",
+    "wpml_iso_format": "ko-kr",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": "ko"
+  },
+  {
+    "name": "Kurdish",
+    "icl_format_iso": "ku",
+    "ms_format_iso": null,
+    "wpml_iso_format": "ku",
+    "spellcheck_iso_format": "ku",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Lao",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "lo",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Latin",
+    "icl_format_iso": "la",
+    "ms_format_iso": null,
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "la",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Latvian",
+    "icl_format_iso": "lv",
+    "ms_format_iso": "lv",
+    "wpml_iso_format": "lv",
+    "spellcheck_iso_format": "lv",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Latvian (Latvia)",
+    "icl_format_iso": "lv",
+    "ms_format_iso": "lv",
+    "wpml_iso_format": "lv-lv",
+    "spellcheck_iso_format": "lv",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Limburgish",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "li",
+    "spellcheck_iso_format": "li",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Lingala",
+    "wpml_iso_format": "ln",
+    "ms_format_iso": null,
+    "icl_format_iso": "lg",
+    "spellcheck_iso_format": "ln",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Lithuanian",
+    "icl_format_iso": "lt",
+    "ms_format_iso": "lt",
+    "wpml_iso_format": "lt",
+    "spellcheck_iso_format": "lt",
+    "hunspell_iso_format": "lt_LT"
+  },
+  {
+    "name": "Lithuanian (Lithuania)",
+    "icl_format_iso": "lt",
+    "ms_format_iso": "lt",
+    "wpml_iso_format": "lt-lt",
+    "spellcheck_iso_format": "lt",
+    "hunspell_iso_format": "lt_LT"
+  },
+  {
+    "name": "Luganda",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "lg",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Luxembourgish",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "lb",
+    "spellcheck_iso_format": "lb",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Luxembourgish (Luxembourg)",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "lb-lu",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Malagasy",
+    "icl_format_iso": null,
+    "ms_format_iso": "mg",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "mg",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Macedonian",
+    "icl_format_iso": "mk",
+    "ms_format_iso": null,
+    "wpml_iso_format": "mk",
+    "spellcheck_iso_format": "mk",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Macedonian (Macedonia)",
+    "icl_format_iso": "mk",
+    "ms_format_iso": null,
+    "wpml_iso_format": "mk-mk",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Malay",
+    "icl_format_iso": "ms",
+    "ms_format_iso": "ms",
+    "wpml_iso_format": "ms",
+    "spellcheck_iso_format": "ms",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Malay (Brunei Darussalam)",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "ms-bn",
+    "spellcheck_iso_format": "ms",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Malay (Malaysia)",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "ms-my",
+    "spellcheck_iso_format": "ms",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Malayalam",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "ml",
+    "spellcheck_iso_format": "ml",
+    "hunspell_iso_format": "ml_IN"
+  },
+  {
+    "name": "Malagasy",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "mg",
+    "spellcheck_iso_format": "mg",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Maltese",
+    "icl_format_iso": "mt",
+    "ms_format_iso": "mt",
+    "wpml_iso_format": "mt",
+    "spellcheck_iso_format": "mt",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Maltese (Malta)",
+    "icl_format_iso": "mt",
+    "ms_format_iso": "mt",
+    "wpml_iso_format": "mt-mt",
+    "spellcheck_iso_format": "mt",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Marathi",
+    "icl_format_iso": "mr",
+    "ms_format_iso": null,
+    "wpml_iso_format": "mr",
+    "spellcheck_iso_format": "mr",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Moldavian",
+    "icl_format_iso": "mo",
+    "ms_format_iso": null,
+    "wpml_iso_format": "mo",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Mongolian",
+    "icl_format_iso": "mn",
+    "ms_format_iso": null,
+    "wpml_iso_format": "mn",
+    "spellcheck_iso_format": "mn",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Mongolian (Mongolia)",
+    "icl_format_iso": "mn",
+    "ms_format_iso": null,
+    "wpml_iso_format": "mn",
+    "spellcheck_iso_format": "mn",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Montenegrin",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "me",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Navajo",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "nv",
+    "spellcheck_iso_format": "nv",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Ndebele",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "nd",
+    "spellcheck_iso_format": "nd",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Nepali",
+    "icl_format_iso": "ne",
+    "ms_format_iso": null,
+    "wpml_iso_format": "ne",
+    "spellcheck_iso_format": "ne",
+    "hunspell_iso_format": "ne_NP"
+  },
+  {
+    "name": "Nepali (India)",
+    "icl_format_iso": "ne",
+    "ms_format_iso": null,
+    "wpml_iso_format": "ne-in",
+    "spellcheck_iso_format": "ne",
+    "hunspell_iso_format": "ne_NP"
+  },
+  {
+    "name": "Norwegian",
+    "icl_format_iso": "nb",
+    "ms_format_iso": "nb",
+    "wpml_iso_format": "no",
+    "spellcheck_iso_format": "nb",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Norwegian (Nynorsk)",
+    "icl_format_iso": "nb",
+    "ms_format_iso": "nb",
+    "wpml_iso_format": "nn",
+    "spellcheck_iso_format": "nn",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Norwegian Bokmål",
+    "icl_format_iso": "nb",
+    "ms_format_iso": "nb",
+    "wpml_iso_format": "nb",
+    "spellcheck_iso_format": "nb",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Oriya",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "or",
+    "spellcheck_iso_format": "or",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Ossetic",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "os",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Panjabi",
+    "icl_format_iso": "pa",
+    "ms_format_iso": null,
+    "wpml_iso_format": "pa",
+    "spellcheck_iso_format": "pa",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Persian",
+    "icl_format_iso": "fa",
+    "ms_format_iso": "fa",
+    "wpml_iso_format": "fa",
+    "spellcheck_iso_format": "fa",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Polish",
+    "icl_format_iso": "pl",
+    "ms_format_iso": "pl",
+    "wpml_iso_format": "pl",
+    "spellcheck_iso_format": "pl",
+    "hunspell_iso_format": "pl_PL"
+  },
+  {
+    "name": "Portuguese",
+    "icl_format_iso": "pt-BR",
+    "ms_format_iso": "pt",
+    "wpml_iso_format": "pt",
+    "spellcheck_iso_format": "pt",
+    "hunspell_iso_format": "pt_BR"
+  },
+  {
+    "name": "Portuguese, Brazil",
+    "icl_format_iso": "pt-BR",
+    "ms_format_iso": "pt",
+    "wpml_iso_format": "pt-br",
+    "spellcheck_iso_format": "pt",
+    "hunspell_iso_format": "pt_BR"
+  },
+  {
+    "name": "Portuguese, Portugal",
+    "icl_format_iso": "pt-PT",
+    "ms_format_iso": "pt",
+    "wpml_iso_format": "pt-pt",
+    "spellcheck_iso_format": "pt",
+    "hunspell_iso_format": "pt_BR"
+  },
+  {
+    "name": "Quechua",
+    "icl_format_iso": "qu",
+    "ms_format_iso": null,
+    "wpml_iso_format": "qu",
+    "spellcheck_iso_format": "qu",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Quechua (Bolivia)",
+    "icl_format_iso": "qu",
+    "ms_format_iso": null,
+    "wpml_iso_format": "qu-bo",
+    "spellcheck_iso_format": "qu",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Quechua (Ecuador)",
+    "icl_format_iso": "qu",
+    "ms_format_iso": null,
+    "wpml_iso_format": "qu-ec",
+    "spellcheck_iso_format": "qu",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Romanian",
+    "icl_format_iso": "ro",
+    "ms_format_iso": "ro",
+    "wpml_iso_format": "ro",
+    "spellcheck_iso_format": "ro",
+    "hunspell_iso_format": "ro_RO"
+  },
+  {
+    "name": "Romanian (Romania)",
+    "icl_format_iso": "ro",
+    "ms_format_iso": "ro",
+    "wpml_iso_format": "ro-ro",
+    "spellcheck_iso_format": "ro",
+    "hunspell_iso_format": "ro_RO"
+  },
+  {
+    "name": "Russian",
+    "icl_format_iso": "ru",
+    "ms_format_iso": "ru",
+    "wpml_iso_format": "ru",
+    "spellcheck_iso_format": "ru",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Russian (Russia)",
+    "icl_format_iso": "ru",
+    "ms_format_iso": "ru",
+    "wpml_iso_format": "ru-ru",
+    "spellcheck_iso_format": "ru",
+    "hunspell_iso_format": "ru_RU"
+  },
+  {
+    "name": "Russian (Ukraine)",
+    "icl_format_iso": "ru",
+    "ms_format_iso": "ru",
+    "wpml_iso_format": "ru-ua",
+    "spellcheck_iso_format": "ru",
+    "hunspell_iso_format": "ru_RU"
+  },
+  {
+    "name": "Samoan",
+    "icl_format_iso": null,
+    "ms_format_iso": "sm",
+    "wpml_iso_format": "sm",
+    "spellcheck_iso_format": "sm",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Sanskrit",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "sa",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Sanskrit (India)",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "sa-in",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Serbian",
+    "icl_format_iso": "sr",
+    "ms_format_iso": null,
+    "wpml_iso_format": "sr",
+    "spellcheck_iso_format": "sr",
+    "hunspell_iso_format": "sr_RS"
+  },
+  {
+    "name": "Serbian (Cyrillic)",
+    "icl_format_iso": "sr",
+    "ms_format_iso": "sr-Cyrl",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "sr",
+    "hunspell_iso_format": "sr_RS"
+  },
+  {
+    "name": "Serbian (Latin)",
+    "icl_format_iso": "sr",
+    "ms_format_iso": "sr-Latn",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "sr",
+    "hunspell_iso_format": "sr_RS"
+  },
+  {
+    "name": "Serbian (Cyrillic, Bosnia)",
+    "icl_format_iso": "sr",
+    "ms_format_iso": "sr-Cyrl",
+    "wpml_iso_format": "sr-ba",
+    "spellcheck_iso_format": "sr",
+    "hunspell_iso_format": "sr_RS"
+  },
+  {
+    "name": "Serbian (Cyrillic, Montenegro)",
+    "icl_format_iso": "sr",
+    "ms_format_iso": "sr-Cyrl",
+    "wpml_iso_format": "sr-me",
+    "spellcheck_iso_format": "sr",
+    "hunspell_iso_format": "sr_RS"
+  },
+  {
+    "name": "Serbian (Cyrillic, Serbia)",
+    "icl_format_iso": "sr",
+    "ms_format_iso": "sr-Cyrl",
+    "wpml_iso_format": "sr-sr",
+    "spellcheck_iso_format": "sr",
+    "hunspell_iso_format": "sr_RS"
+  },
+  {
+    "name": "Serbian (Latin, Bosnia)",
+    "icl_format_iso": "sr",
+    "wpml_iso_format": "srl-ba",
+    "ms_format_iso": "sr-Latn",
+    "spellcheck_iso_format": "sr",
+    "hunspell_iso_format": "sr_RS"
+  },
+  {
+    "name": "Serbian (Latin, Montenegro)",
+    "icl_format_iso": "sr",
+    "wpml_iso_format": "srl-me",
+    "ms_format_iso": "sr-Latn",
+    "spellcheck_iso_format": "sr",
+    "hunspell_iso_format": "sr_RS"
+  },
+  {
+    "name": "Serbian (Serbia)",
+    "icl_format_iso": "sr",
+    "ms_format_iso": null,
+    "wpml_iso_format": "sr-rs",
+    "spellcheck_iso_format": "sr",
+    "hunspell_iso_format": "sr_RS"
+  },
+  {
+    "name": "Shona",
+    "icl_format_iso": "sn",
+    "ms_format_iso": null,
+    "wpml_iso_format": "sn",
+    "spellcheck_iso_format": "sn",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Sindhi",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "sd",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Sinhala",
+    "icl_format_iso": "si",
+    "ms_format_iso": null,
+    "wpml_iso_format": "si",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": "si_LK"
+  },
+  {
+    "name": "Slovak",
+    "icl_format_iso": "cu",
+    "ms_format_iso": "sk",
+    "wpml_iso_format": "sk",
+    "spellcheck_iso_format": "sk",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Slovenian",
+    "icl_format_iso": "sl",
+    "ms_format_iso": "sl",
+    "wpml_iso_format": "sl",
+    "spellcheck_iso_format": "sl",
+    "hunspell_iso_format": "sl_SI"
+  },
+  {
+    "name": "Slovenian (Slovenia)",
+    "icl_format_iso": "sl",
+    "ms_format_iso": "sl",
+    "wpml_iso_format": "sl-si",
+    "spellcheck_iso_format": "sl",
+    "hunspell_iso_format": "sl_SI"
+  },
+  {
+    "name": "Somali",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "so",
+    "spellcheck_iso_format": "so",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Sotho",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "st",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Spanish",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish (Chile)",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-cl",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish (Colombia)",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-co",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish (CRica)",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-cr",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish (ElSalv)",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-sv",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish (International)",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-xm",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish (Latin America)",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-la",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish (Panama)",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-pa",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish (Parag)",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-py",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish (Peru)",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-pe",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish (Puerto Rico)",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-pr",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish (Urug)",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-uy",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish (US)",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-us",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish (Venezuela)",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-ve",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish, Argentina",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-ar",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish, Latin America",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-xl",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish, Mexico",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-mx",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Spanish, Spain",
+    "icl_format_iso": "es",
+    "ms_format_iso": "es",
+    "wpml_iso_format": "es-es",
+    "spellcheck_iso_format": "es",
+    "hunspell_iso_format": "es_ES"
+  },
+  {
+    "name": "Sundanese",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "su",
+    "spellcheck_iso_format": "su",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Swahili",
+    "icl_format_iso": "sw",
+    "ms_format_iso": null,
+    "wpml_iso_format": "sw",
+    "spellcheck_iso_format": "sw",
+    "hunspell_iso_format": "sw_TZ"
+  },
+  {
+    "name": "Swedish",
+    "icl_format_iso": "sv",
+    "ms_format_iso": "sv",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "sv",
+    "hunspell_iso_format": "sv_SE"
+  },
+  {
+    "name": "Swedish (FI)",
+    "icl_format_iso": "sv",
+    "ms_format_iso": "sv",
+    "wpml_iso_format": "sv-fi",
+    "spellcheck_iso_format": "sv",
+    "hunspell_iso_format": "sv_SE"
+  },
+  {
+    "name": "Swedish (Sweden)",
+    "icl_format_iso": "sv",
+    "ms_format_iso": "sv",
+    "wpml_iso_format": "sv-se",
+    "spellcheck_iso_format": "sv",
+    "hunspell_iso_format": "sv_SE"
+  },
+  {
+    "name": "Tagalog",
+    "icl_format_iso": "tl_PH",
+    "ms_format_iso": null,
+    "wpml_iso_format": "tl",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Tajik",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "tg",
+    "spellcheck_iso_format": "tg",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Tahitian",
+    "icl_format_iso": null,
+    "ms_format_iso": "ty",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "ty",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Tamil",
+    "icl_format_iso": "ta",
+    "ms_format_iso": "ta",
+    "wpml_iso_format": "ta",
+    "spellcheck_iso_format": "ta",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Tamil (Sri Lanka)",
+    "icl_format_iso": "ta",
+    "ms_format_iso": "ta",
+    "wpml_iso_format": "ta-lk",
+    "spellcheck_iso_format": "ta",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Tatar",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "tt",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Telugu",
+    "icl_format_iso": "te",
+    "ms_format_iso": null,
+    "wpml_iso_format": "te",
+    "spellcheck_iso_format": "te",
+    "hunspell_iso_format": "te_IN"
+  },
+  {
+    "name": "Thai",
+    "icl_format_iso": "th",
+    "ms_format_iso": "th",
+    "wpml_iso_format": "th",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": "th_TH"
+  },
+  {
+    "name": "Thai (Thailand)",
+    "icl_format_iso": "th",
+    "ms_format_iso": "th",
+    "wpml_iso_format": "th-th",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": "th_TH"
+  },
+  {
+    "name": "Tongan",
+    "icl_format_iso": null,
+    "ms_format_iso": "to",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "to",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Tibetan",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "bo",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Tigrinya",
+    "icl_format_iso": "ti",
+    "ms_format_iso": null,
+    "wpml_iso_format": "ti",
+    "spellcheck_iso_format": "ti",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Tswana",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "tn",
+    "spellcheck_iso_format": "tn",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Turkish",
+    "icl_format_iso": "tr",
+    "ms_format_iso": null,
+    "wpml_iso_format": "tr",
+    "spellcheck_iso_format": "tr",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Turkish (Turkey)",
+    "icl_format_iso": "tr",
+    "ms_format_iso": null,
+    "wpml_iso_format": "tr-tr",
+    "spellcheck_iso_format": "tr",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Turkmen",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "tk",
+    "spellcheck_iso_format": "tk",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Twi",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "tw",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Turkish",
+    "icl_format_iso": "tr",
+    "ms_format_iso": "tr",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "tr",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Uighur",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "ug",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Ukrainian",
+    "icl_format_iso": "uk",
+    "ms_format_iso": "uk",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": "uk",
+    "hunspell_iso_format": "uk_UA"
+  },
+  {
+    "name": "Urdu",
+    "icl_format_iso": "ur",
+    "ms_format_iso": "ur",
+    "wpml_iso_format": "ur",
+    "spellcheck_iso_format": "ur",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Urdu (India)",
+    "icl_format_iso": "ur",
+    "ms_format_iso": "ur",
+    "wpml_iso_format": "ur-in",
+    "spellcheck_iso_format": "ur",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Ukrainian (Ukraine)",
+    "icl_format_iso": "uk",
+    "ms_format_iso": null,
+    "wpml_iso_format": "uk-ua",
+    "spellcheck_iso_format": "uk",
+    "hunspell_iso_format": "uk_UA"
+  },
+  {
+    "name": "Ukrainian (Ukraine)",
+    "icl_format_iso": "uk",
+    "ms_format_iso": null,
+    "wpml_iso_format": "uk-ua",
+    "spellcheck_iso_format": "uk",
+    "hunspell_iso_format": "uk_UA"
+  },
+  {
+    "name": "Urdu",
+    "icl_format_iso": "ur",
+    "ms_format_iso": null,
+    "wpml_iso_format": "ur",
+    "spellcheck_iso_format": "ur",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Urdu (India)",
+    "icl_format_iso": "ur",
+    "ms_format_iso": null,
+    "wpml_iso_format": "ur-in",
+    "spellcheck_iso_format": "ur",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Uzbek",
+    "icl_format_iso": "uz",
+    "ms_format_iso": null,
+    "wpml_iso_format": "uz",
+    "spellcheck_iso_format": "uz",
+    "hunspell_iso_format": "uz_UZ"
+  },
+  {
+    "name": "Uzbek (Arabic)",
+    "icl_format_iso": "uz",
+    "ms_format_iso": "ar",
+    "wpml_iso_format": "uza",
+    "spellcheck_iso_format": "uz",
+    "hunspell_iso_format": "ar"
+  },
+  {
+    "name": "Uzbek (Latin)",
+    "icl_format_iso": "uz",
+    "ms_format_iso": null,
+    "wpml_iso_format": "uzl",
+    "spellcheck_iso_format": "uz",
+    "hunspell_iso_format": "uz_UZ"
+  },
+  {
+    "name": "Uzbek (Uzbekistan)",
+    "icl_format_iso": "uz",
+    "ms_format_iso": null,
+    "wpml_iso_format": "uz-uz",
+    "hunspell_iso_format": "uz_UZ"
+  },
+  {
+    "name": "Vietnamese",
+    "icl_format_iso": "vi",
+    "ms_format_iso": "vi",
+    "wpml_iso_format": "vi",
+    "spellcheck_iso_format": "vi",
+    "hunspell_iso_format": "vi_VN"
+  },
+  {
+    "name": "Vietnamese (Vietnam)",
+    "icl_format_iso": "vi",
+    "ms_format_iso": "vi",
+    "wpml_iso_format": "vi-vn",
+    "spellcheck_iso_format": "vi",
+    "hunspell_iso_format": "vi_VN"
+  },
+  {
+    "name": "Walloon",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "wa",
+    "spellcheck_iso_format": "wa",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Welsh",
+    "icl_format_iso": "cy",
+    "ms_format_iso": "cy",
+    "wpml_iso_format": "cy",
+    "spellcheck_iso_format": "cy",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Wolof",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "wo",
+    "spellcheck_iso_format": "wo",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Xhosa",
+    "icl_format_iso": null,
+    "ms_format_iso": null,
+    "wpml_iso_format": "xh",
+    "spellcheck_iso_format": "xh",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Yucatec Maya",
+    "icl_format_iso": null,
+    "ms_format_iso": "yua",
+    "wpml_iso_format": null,
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Yiddish",
+    "icl_format_iso": "yi",
+    "ms_format_iso": null,
+    "wpml_iso_format": "yi",
+    "spellcheck_iso_format": "yi",
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Yoruba",
+    "icl_format_iso": "yr",
+    "ms_format_iso": null,
+    "wpml_iso_format": "yo",
+    "spellcheck_iso_format": null,
+    "hunspell_iso_format": null
+  },
+  {
+    "name": "Zulu",
+    "icl_format_iso": "zu",
+    "ms_format_iso": null,
+    "wpml_iso_format": "zu",
+    "spellcheck_iso_format": "zu",
+    "hunspell_iso_format": null
+  }
+]

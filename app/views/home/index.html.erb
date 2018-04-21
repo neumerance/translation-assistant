@@ -1,0 +1,49 @@
+<div class="inner-bg">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6 col-sm-offset-3 form-box">
+        <div class="form-top">
+          <div class="form-top-left">
+            <h3><%= t('layout.login.title', {appname: ApplicationAdapters.config['appName']}).html_safe %></h3>
+            <p><%= t('layout.login.caption').html_safe %></p>
+            <% if flash.any? %>
+              <ul class="nav m-0 p-0 no-bullets">
+                <% flash.each do |msg| %>
+                  <li class="text-scarlet"><span class="fa fa-warning"></span> <small><%= msg[1] %></small></li>
+                <% end %>
+              </ul>
+            <% end %>
+          </div>
+          <div class="form-top-right">
+            <i class="fa fa-key"></i>
+          </div>
+        </div>
+        <div class="form-bottom">
+          <form role="form" action="<%= home_login_url %>" method="post" class="login-form">
+            <%= hidden_field_tag :authenticity_token, form_authenticity_token %>
+            <% if ENVS_WITH_SELECTOR.include? Rails.env %>
+              <div class="form-group">
+                <label class="sr-only" for="form-endpoint"><%= t('layout.login.label') %></label>
+                <select name="service" class="form-control">
+                  <option value=""><%= t('layout.login.hint') %></option>
+                  <% Service.services.each do |k, v| %>
+                      <option value="<%= k %>"><%= v[:name] %></option>
+                  <% end %>
+                </select>
+              </div>
+            <% end %>
+            <div class="form-group">
+              <label class="sr-only" for="form-username">Username</label>
+              <input type="text" name="email" placeholder="Username..." class="form-username form-control" id="form-username">
+            </div>
+            <div class="form-group">
+              <label class="sr-only" for="form-password">Password</label>
+              <input type="password" name="password" placeholder="Password..." class="form-password form-control" id="form-password">
+            </div>
+            <button type="submit" class="btn"><%= t('layout.login.button') %></button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

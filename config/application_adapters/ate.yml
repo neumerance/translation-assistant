@@ -1,0 +1,5 @@
+targetApp: "ate"
+appName: "Advance Translation Editor"
+JobsIndexEnabled: false
+IssuesFeatureEnabled: false
+InstantTranslationEnabled: false

@@ -1,0 +1,29 @@
+a.highlight {
+    background: #008cba;
+    color: #FFFFFF;
+}
+
+a.highlight:hover {
+    color: #FFF;
+}
+
+.popover .popover-title {
+    border: 1px solid #ddd;
+}
+.popover .popover-content {
+    border: 1px solid #ddd;
+    background: #FFF;
+}
+
+.dltr {
+    direction: rtl !important;
+}
+
+.highlight-text {
+    color: #000 !important;
+    margin: 2px !important;
+}
+
+.xtag {
+    margin-bottom: -4px !important;
+}

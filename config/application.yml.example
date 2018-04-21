@@ -1,0 +1,55 @@
+qa:
+  service_key: ''
+  service_name: ''
+  service_base_url: ''
+  service_login_api: ''
+  backend_api: ''
+  microsoft_translation_api_key: microsoft_translation_api_key_here
+
+staging:
+  service_key: ''
+  service_name: ''
+  service_base_url: ''
+  service_login_api: ''
+  backend_api: ''
+  microsoft_translation_api_key: microsoft_translation_api_key_here
+
+production:
+  service_key: ''
+  service_name: ''
+  service_base_url: ''
+  service_login_api: ''
+  backend_api: ''
+  microsoft_translation_api_key: microsoft_translation_api_key_here
+
+ate_qa:
+  service_key: ''
+  service_name: ''
+  service_base_url: ''
+  service_login_api: ''
+  backend_api: ''
+  microsoft_translation_api_key: microsoft_translation_api_key_here
+
+ate_staging:
+  service_key: ''
+  service_name: ''
+  service_base_url: ''
+  service_login_api: ''
+  backend_api: ''
+  microsoft_translation_api_key: microsoft_translation_api_key_here
+
+ate_production:
+  service_key: ''
+  service_name: ''
+  service_base_url: ''
+  service_login_api: ''
+  backend_api: ''
+  microsoft_translation_api_key: microsoft_translation_api_key_here
+
+development:
+  service_key: ''
+  service_name: ''
+  service_base_url: ''
+  service_login_api: ''
+  backend_api: ''
+  microsoft_translation_api_key: microsoft_translation_api_key_here
